@@ -28,7 +28,7 @@ oneuiapp = ["./oneui.app.min-5.8.js"];
 dctitle = "Xk Studio官网";
 
 //网站关键字，用空格分隔
-keywords = "Xk Studio xx工作室";
+keywords = "Xk Studio Xk工作室";
 
 //网站介绍
 descrp = "Xk Studio的官网";
@@ -60,7 +60,7 @@ banie = true;
 teamname = "Xk Studio";
 
 //建立年份
-teamday = "2022";
+teamday = "2025";
 
 //网站左上角处名称
 headtitle = "Xk Studio官网";
@@ -77,7 +77,7 @@ blk1bg = "https://npm.elemecdn.com/zxmacc-staticr@v1.0.5/images/background/day02
 jrsc = "江天一色无纤尘，皎皎空中孤月轮。";
 
 //网站第一板块子标题
-blk1stitle = "Nothing";
+blk1stitle = "一个团队，一个梦想";
 
 //弹窗内容
 //标题，文字(\n换行)
@@ -117,12 +117,12 @@ contacts = [
   [
     "fab fa-qq",
     "QQ群",
-    "https://im.qq.com"
+    "https://qm.qq.com/cgi-bin/qm/qr?k=-IKArQGN4d0u8Nh-Rn4XaBqqw4-"
   ],
   [
     "fab fa-google",
     "邮箱",
-    "mailto:xxx@example.com"
+    "mailto:xk233@hotmail.com"
   ]
 ];
 
@@ -138,15 +138,15 @@ contacts = [
 flinks = [
   [
     "https://www.baidu.com/favicon.ico",
-    "示例(百度1)",
+    "个人博客",
     "懂得都懂",
-    "https://baidu.com"
+    "https://www.1fu.top/"
   ],
   [
-    "https://www.baidu.com/favicon.ico",
-    "示例(百度2)",
+    "https://mcjpg.org/server_icons/%E6%98%9F%E5%85%89StarShine.png",
+    "星光MC服务器",
     "懂得都懂",
-    "https://baidu.com"
+    "https://www.8bc.top/"
   ]
 ];
 
@@ -156,13 +156,13 @@ flinks = [
 memb = [
   [
     "https://npm.elemecdn.com/zxmacc-staticr@v1.0.5/images/background/day02.png",
-    "https://q.qlogo.cn/headimg_dl?dst_uin=1814669296&spec=640",
+    "https://q.qlogo.cn/headimg_dl?dst_uin=3277822048&spec=640",
     "#A（Xk233）",
     "团队创始人、技术",
     [
-      "88888888",
+      "3477822048",
       "https://baidu.com",
-      "xxx@example.com"
+      "xk233@example.com"
     ]
   ],
   [
